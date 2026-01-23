@@ -20,7 +20,7 @@
 
 ## Cobbleverse (方塊寶可夢)
 for Prsim Launcher
-1. 左上角新增實例，左邊選單選Modrinth，搜尋cobbleverse
+1. 左上角新增實例，左邊選單選Modrinth，搜尋cobbleverse，選第一個按確定
    ![alt text](https://github.com/user-attachments/assets/f7e839f7-a614-450b-9d4c-7d28ea8e038c)
 2. 打開cmd，ssh連個人工作站帳號，port:25566
    
@@ -33,7 +33,7 @@ for Prsim Launcher
 3. 啟動cobbleverse
    
    多人遊戲 -> 直接連線 or 新增伺服器
-   ![alt text]([image-4.png](https://github.com/user-attachments/assets/17ce1afd-8f45-48ae-ba7a-8948ac5e0d67))
+   ![alt text](https://github.com/user-attachments/assets/17ce1afd-8f45-48ae-ba7a-8948ac5e0d67)
    輸入伺服器位址:
    localhost:25566
    ![alt text](https://github.com/user-attachments/assets/b3125844-7730-466c-91fd-bc7670425a5c)
