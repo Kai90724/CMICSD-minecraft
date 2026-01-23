@@ -1,7 +1,7 @@
 # CMICSD Minecraft
 
 ### Prism Launcher (recommended)
-for無正版minecraft，方法簡單，穩
+
 1. 安裝Prism Launcher
    
    https://github.com/Diegiwg/PrismLauncher-Cracked/releases/tag/9.4
@@ -9,7 +9,12 @@ for無正版minecraft，方法簡單，穩
    選PrismLauncher-Windows-MinGW-w64-Setup-9.4.exe
 
 
-2. 管理帳號，新增離線帳號
+2. 帳號
+
+   無正版minecraft，管理帳號，新增離線帳號
+
+   有正版直接新增microsoft帳號
+
    ![alt text](https://github.com/user-attachments/assets/a309ee48-1422-4423-b578-14a76fc3670b)
    ![alt text](https://github.com/user-attachments/assets/8b9e6a1e-3f54-4aa1-ab1c-18554ffe5c48)
 
