@@ -39,8 +39,7 @@ for Prsim Launcher
    多人遊戲 -> 直接連線 or 新增伺服器
    ![alt text](https://github.com/user-attachments/assets/8631bd5a-e3d1-4660-a39d-39c8a5ed2eff)
    輸入伺服器位址:
-   localhost:25566
-   ![alt text](https://github.com/user-attachments/assets/05c86b54-46a8-490c-bef2-1dbfcb0348c6)
+   localhost:30000
 
    
 ## 原版伺服器(david的地盤)
