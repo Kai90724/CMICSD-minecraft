@@ -26,7 +26,7 @@ https://adoptium.net/zh-CN/temurin/releases?version=21
 for Prsim Launcher
 1. 左上角新增實例，左邊選單選Modrinth，搜尋cobbleverse，選第一個按確定
    ![alt text](https://github.com/user-attachments/assets/2e30fc23-3e9b-45df-9b31-cf54761e6bab)
-2. 打開cmd，ssh連個人工作站帳號，port:25566
+2. 打開cmd，ssh連個人工作站帳號，port:30000
    
    command:
 
