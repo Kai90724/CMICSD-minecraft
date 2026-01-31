@@ -1,5 +1,10 @@
 # CMICSD Minecraft
 
+## 環境
+確定電腦有java 21，沒有的話先安裝
+
+https://adoptium.net/zh-CN/temurin/releases?version=21
+
 ### Prism Launcher (recommended)
 
 1. 安裝Prism Launcher
@@ -7,7 +12,6 @@
    https://github.com/Diegiwg/PrismLauncher-Cracked/releases/tag/9.4
 
    選PrismLauncher-Windows-MinGW-w64-Setup-9.4.exe
-
 
 2. 帳號
 
@@ -26,7 +30,7 @@ for Prsim Launcher
    
    command:
 
-   ssh -p 41288 -L 25566:localhost:25566 你的工作站帳號@140.116.156.207
+   ssh -p 41288 -L 30000:localhost:30000 你的工作站帳號@140.116.156.207
 
    連上後cmd不要關
    ![alt text](https://github.com/user-attachments/assets/eed93162-1eb3-4a41-9546-3beb43915324)
