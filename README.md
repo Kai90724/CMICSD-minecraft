@@ -30,7 +30,7 @@ for Prsim Launcher
    
    command:
 
-   ssh -p 41288 -L 30000:localhost:30000 你的工作站帳號@140.116.156.207
+   ssh -p 41288 -L 25565:localhost:25565 你的工作站帳號@140.116.156.207
 
    連上後cmd不要關
    ![alt text](https://github.com/user-attachments/assets/eed93162-1eb3-4a41-9546-3beb43915324)
@@ -39,9 +39,4 @@ for Prsim Launcher
    多人遊戲 -> 直接連線 or 新增伺服器
    ![alt text](https://github.com/user-attachments/assets/8631bd5a-e3d1-4660-a39d-39c8a5ed2eff)
    輸入伺服器位址:
-   localhost:30000
-
-   
-## 原版伺服器(david的地盤)
-
-1. 左上角新增實例，版本1.21.4
+   localhost
